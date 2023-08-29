@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @banderas328
-- 👀 I’m interested in web,security,clouds,networks
-- 🌱 I’m currently learning managment and python
-- 💞️ I’m looking to collaborate on my own networks project in my repositories https://github.com/banderas328/networks
+- 👋 Hi, I’m Anton Zhavrid
+- 👀 I’m interested in web,security,clouds
+- 🌱 I’m currently learning devops and python
+- 💞️ I’m looking to collaborate on my own octopus project in my repositories https://github.com/banderas328/networks
 - 📫 How to reach me anton.zhavrid.minsk@gmail.com +375 25 719 70 02
 
 <!---
